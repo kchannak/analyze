@@ -1,2 +1,3 @@
-# analyze_log
-Log file analyzer to get statistics on particular patterns in log files
+# log-analysis
+
+This software analyzes the log file provided as input to obtain some summary statistics for the user.
